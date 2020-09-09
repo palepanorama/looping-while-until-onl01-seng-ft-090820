@@ -3,6 +3,8 @@ def using_while
 	
   #your code here
   counter = 6 
+  while counter < 10 
+  
 end
 
 
